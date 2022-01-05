@@ -1,0 +1,6 @@
+.payment{
+    height: 5vmin;
+  pointer-events: none;
+  vertical-align: middle;
+  margin-left: 10%;
+}
